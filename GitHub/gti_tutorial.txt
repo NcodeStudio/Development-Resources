@@ -1,0 +1,10 @@
+youtube : 
+
+https://www.youtube.com/watch?v=8JJ101D3knE
+https://github.com/NcodeStudio/Development-Resources.git
+
+advance : 
+How to commit better with Git
+https://www.youtube.com/watch?v=Hlp-9cdImSM&t=2s
+Learn Git Hooks
+https://www.youtube.com/playlist?list=PLuZkwckxno0oWk42HHXC6RhySz1wagfaz
