@@ -1,8 +1,0 @@
-youtube: 
-
-This is the Only Right Way to Write React clean-code - SOLID
-https://www.youtube.com/watch?v=MSq_DCRxOxw
-
-articles:
-The S.O.L.I.D Principles in Pictures
-https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
