@@ -17,6 +17,11 @@ https://sabzlearn.ir/product/java-script-zero-to-hero/
 
 youtube: 
 
+react js basic tutorials :
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+https://www.youtube.com/playlist?list=PLNmsVeXQZj7oi_Q4whC28Yp12l1I-hauk
+https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza
+
 This is the Only Right Way to Write React clean-code - SOLID
 https://www.youtube.com/watch?v=MSq_DCRxOxw
 
